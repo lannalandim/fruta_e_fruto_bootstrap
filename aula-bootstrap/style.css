@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@600&family=Pacifico&display=swap');
+
+.imagem-carrossel1 {
+    object-fit: cover;
+    object-position: 0 75%;
+    height: 500px;
+
+}
+
+.imagem-carrossel2 {
+    object-fit: cover;
+    height: 500px;
+}
+
+.carousel-titulo{
+    font-family: 'Pacifico', cursive;
+
+}
+
+.paragrafo-color{
+    color: darkred;
+
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.card-botao-color{
+    background-color: darkred;
+    color: white;
+}
+
+.card-borda-color {
+    border-color: darkred;
+}
+
+.card-img {
+    object-fit: cover;
+    height: 200px;
+}
